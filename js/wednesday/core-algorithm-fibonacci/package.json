@@ -1,0 +1,23 @@
+{
+  "name": "core-algorithm-fibonacci",
+  "version": "1.0.0",
+  "description": "В этой задаче ты снова рассмотришь реализацию аналогичного процесса двумя разными способами: итеративно и рекурсивно. Ты ознакомился(ась) с каждым из этих подходов в [предыдущей задаче](../../../algorithm-drill-factorial-challenge).",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-force/core-algorithm-fibonacci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-force/core-algorithm-fibonacci/issues"
+  },
+  "homepage": "https://github.com/p-force/core-algorithm-fibonacci#readme",
+  "dependencies": {
+    "jest": "^28.1.3"
+  }
+}

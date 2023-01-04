@@ -1,0 +1,22 @@
+{
+  "name": "labyrinth-challenge",
+  "version": "1.0.0",
+  "description": "> \"Таким образом, герой встретил Минотавра в мрачных глубинах Лабиринта и не был напуган\". -Тесей и Минотавр",
+  "main": "solver.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbrus-Bootcamp/labyrinth-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elbrus-Bootcamp/labyrinth-challenge/issues"
+  },
+  "homepage": "https://github.com/Elbrus-Bootcamp/labyrinth-challenge#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

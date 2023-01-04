@@ -1,0 +1,26 @@
+{
+  "name": "core-proto-vehicle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "train-or-truck.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbrus-Bootcamp/core-proto-vehicle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elbrus-Bootcamp/core-proto-vehicle/issues"
+  },
+  "homepage": "https://github.com/Elbrus-Bootcamp/core-proto-vehicle#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.25.2",
+    "jest": "^27.3.1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "oojs-bikes-and-stations-challenge",
+  "version": "1.0.0",
+  "description": "В некоторых городах велосипеды можно арендовать на короткое время. [Станции велопроката](https://www.google.com/search?q=bike+rental+stations&espv=2&biw=1366&bih=647&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwjhuaOwsf3LAhUFOiYKHQOZCkwQsAQIGw) расположены в разных частях города. Люди могут арендовать велосипед на одной из станций, поехать на нем туда, куда им нужно, и вернуть велосипед на другой станции. Тебе нужно будет разработать классы на JavaScript для моделирования велосипедов и станций.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbrus-Bootcamp/oojs-bikes-and-stations-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elbrus-Bootcamp/oojs-bikes-and-stations-challenge/issues"
+  },
+  "homepage": "https://github.com/Elbrus-Bootcamp/oojs-bikes-and-stations-challenge#readme",
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "^27.3.1"
+  },
+  "prettier": {
+    "singleQuote": true
+  }
+}

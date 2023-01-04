@@ -1,0 +1,23 @@
+{
+  "name": "js-todo-list",
+  "version": "1.0.0",
+  "description": "(!) прежде чем начать убедитесь что вы уже сделали [Парсинг данных: из CSV в JS в CSV](../../../parsing-data-1-csv-in-csv-out-challenge/) и вы понимаете как работает библиотека `json2csv` и `fs`",
+  "main": "todo-list-runner.js",
+  "dependencies": {
+    "csv-parse": "^4.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbrus-Bootcamp/to-do-list-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elbrus-Bootcamp/to-do-list-JS/issues"
+  },
+  "homepage": "https://github.com/Elbrus-Bootcamp/to-do-list-JS#readme"
+}

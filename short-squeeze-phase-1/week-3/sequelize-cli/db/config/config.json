@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "p1w3d3_user",
+    "password": "p1w3d3_user",
+    "database": "p1w3d3",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "p1w3d3_user",
+    "password": "p1w3d3_user",
+    "database": "p1w3d3",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "p1w3d3_user",
+    "password": "p1w3d3_user",
+    "database": "p1w3d3",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "p1-sequelize-models-intro",
+  "version": "1.0.0",
+  "description": "Установите sequelize и sequelize-cli. Вам предстоит выполнить несколько небольших заданий, чтобы научиться работать с моделями в Sequelize. Вы будете работать с пользователями, продуктами и заказами. Это может быть рабочая модель сайта онлайн-покупок, заказов еды на дом и тд.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbrus-Bootcamp/p1-sequelize-models-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elbrus-Bootcamp/p1-sequelize-models-intro/issues"
+  },
+  "homepage": "https://github.com/Elbrus-Bootcamp/p1-sequelize-models-intro#readme",
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "sequelize-cli": "^6.4.1"
+  },
+  "dependencies": {
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.21.4"
+  }
+}

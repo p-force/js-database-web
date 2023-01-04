@@ -1,0 +1,23 @@
+{
+  "name": "core-algorithm-factorial",
+  "version": "1.0.0",
+  "description": "В этой задаче тебе необходимо написать два решения одной и той же проблемы. Тебе надо написать две функции, которые ведут себя одинаково - они будут принимать те же аргументы и возвращать одинаковые значения. Они будут отличаться только в своих реализациях (т.е. каким образом они делают то, что делают).",
+  "main": "factorial.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-force/core-algorithm-factorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-force/core-algorithm-factorial/issues"
+  },
+  "homepage": "https://github.com/p-force/core-algorithm-factorial#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "name": "core-proto-disney",
+  "version": "1.0.0",
+  "description": "proto and prototype and bind",
+  "main": "cartoon.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbrus-Bootcamp/core-proto-prototype-disney.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elbrus-Bootcamp/core-proto-prototype-disney/issues"
+  },
+  "homepage": "https://github.com/Elbrus-Bootcamp/core-proto-prototype-disney#readme",
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "jest": "^27.3.1"
+  }
+}

@@ -1,0 +1,16 @@
+.progressbar {
+    display: flex;
+    position: absolute;
+    align-content: center;
+    border: 2px solid black;
+    /* left: 20px; */
+    margin: 20px 20px 20px 20px;
+    top: 120px;
+    width: 250px;
+}
+
+.square {
+    display: flex;
+    border: 5px solid blue;
+    margin: 2px 2px 2px 2px;
+}

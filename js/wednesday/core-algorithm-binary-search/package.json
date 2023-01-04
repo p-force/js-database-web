@@ -1,0 +1,23 @@
+{
+  "name": "core-algorithm-binary-search",
+  "version": "1.0.0",
+  "description": "## Введение",
+  "main": "binarySearch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-force/core-algorithm-binary-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-force/core-algorithm-binary-search/issues"
+  },
+  "homepage": "https://github.com/p-force/core-algorithm-binary-search#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "core-js-nested-arrays-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "Массивы являются полезными объектами для хранения коллекций данных: списка чисел, строк и тд. Это довольно простые объекты, и их гибкость приводит к неограниченным возможностям их использования. В этом задании рассматривается тема *Вложенные массивы*. Массивы, элементами которых являются массивы. Другими словами, массивы массивов.",
+  "main": "convert-table.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-force/core-js-nested-arrays-tic-tac-toe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-force/core-js-nested-arrays-tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/p-force/core-js-nested-arrays-tic-tac-toe#readme"
+}

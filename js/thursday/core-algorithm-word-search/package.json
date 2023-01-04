@@ -1,0 +1,23 @@
+{
+  "name": "core-algorithm-word-search",
+  "version": "1.0.0",
+  "description": "В этой задаче нужно будет написать алгоритм поиска, который скажет, можно ли найти входное слово в головоломке поиска слов, которая тоже подается функции на вход.",
+  "main": "wordSearch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-force/core-algorithm-word-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-force/core-algorithm-word-search/issues"
+  },
+  "homepage": "https://github.com/p-force/core-algorithm-word-search#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}

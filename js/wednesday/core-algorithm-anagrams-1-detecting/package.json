@@ -1,0 +1,26 @@
+{
+  "name": "core-algorithm-anagrams-1-detecting",
+  "version": "1.0.0",
+  "description": "В этой задаче ты будешь писать метод, который расскажет, являются ли два слова анаграммами.  Анаграмма - это слово, образованное перестановкой букв другого слова. Например, ты можешь записать слово *melon*, переставив буквы в слове *lemon*. Поэтому *melon* является анаграммой *lemon*, также как *lemon* является анаграммой *melon*.",
+  "main": "isAnagrams.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-force/core-algorithm-anagrams-1-detecting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-force/core-algorithm-anagrams-1-detecting/issues"
+  },
+  "homepage": "https://github.com/p-force/core-algorithm-anagrams-1-detecting#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
